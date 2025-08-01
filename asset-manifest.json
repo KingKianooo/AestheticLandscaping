@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AestheticLandscaping/static/css/main.0584fb8d.css",
-    "main.js": "/AestheticLandscaping/static/js/main.ce53421d.js",
+    "main.css": "/AestheticLandscaping/static/css/main.f8348570.css",
+    "main.js": "/AestheticLandscaping/static/js/main.58620950.js",
     "static/js/453.c29d4fbc.chunk.js": "/AestheticLandscaping/static/js/453.c29d4fbc.chunk.js",
     "static/media/website-stock-expertise.jpeg": "/AestheticLandscaping/static/media/website-stock-expertise.b17622694fca0e8ebc24.jpeg",
     "static/media/firstPanel1.jpg": "/AestheticLandscaping/static/media/firstPanel1.fcc7d26f4e650f0d96e0.jpg",
@@ -29,12 +29,12 @@
     "static/media/16.png": "/AestheticLandscaping/static/media/16.dae992f0058b67823cc1.png",
     "static/media/20.png": "/AestheticLandscaping/static/media/20.1c6b9a8a961012b69fbc.png",
     "index.html": "/AestheticLandscaping/index.html",
-    "main.0584fb8d.css.map": "/AestheticLandscaping/static/css/main.0584fb8d.css.map",
-    "main.ce53421d.js.map": "/AestheticLandscaping/static/js/main.ce53421d.js.map",
+    "main.f8348570.css.map": "/AestheticLandscaping/static/css/main.f8348570.css.map",
+    "main.58620950.js.map": "/AestheticLandscaping/static/js/main.58620950.js.map",
     "453.c29d4fbc.chunk.js.map": "/AestheticLandscaping/static/js/453.c29d4fbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0584fb8d.css",
-    "static/js/main.ce53421d.js"
+    "static/css/main.f8348570.css",
+    "static/js/main.58620950.js"
   ]
 }
